@@ -1,0 +1,412 @@
+A7-DLCMERGER-MERGE_SOD;DLC Merger - Merge "Siege of Dragonspear" DLC
+
+// BG1 PRE-EET
+bg1ub:0;BG1 Unfinished Business - Ice Island Level Two Restoration
+bg1ub:11;BG1 Unfinished Business - Scar and the Sashenstar's Daughter
+bg1ub:12;BG1 Unfinished Business - Quoningar, the Cleric
+bg1ub:13;BG1 Unfinished Business - Shilo Chen and the Ogre-Magi
+bg1ub:14;BG1 Unfinished Business - Edie, the Merchant League Applicant
+bg1ub:16;BG1 Unfinished Business - Creature Corrections
+bg1ub:17;BG1 Unfinished Business - Creature Restorations
+bg1ub:18;BG1 Unfinished Business - Creature Name Restorations
+bg1ub:19;BG1 Unfinished Business - Minor Dialogue Restorations
+bg1ub:21;BG1 Unfinished Business - Store, Tavern and Inn Fixes and Restorations
+bg1ub:22;BG1 Unfinished Business - Item Corrections and Restorations
+bg1ub:29;BG1 Unfinished Business - Duke Eltan in the Harbor Master's Building
+bg1ub:30;BG1 Unfinished Business - Nim Furlwing Encounter
+bg1ub:32;BG1 Unfinished Business - Svlast, the Fallen Paladin Encounter
+bg1ub:33;BG1 Unfinished Business - Mal-Kalen, the Ulcaster Ghost
+bg1ub:34;BG1 Unfinished Business - Chapter 6 Dialogue Restorations
+L#-VERRBGEE;Verr'Sza BGEE & SoD - Verr'Sza - the rakshasa NPC for BG1EE
+
+// EET + Graphic Overhaul + Pathfinding corrections
+EET:0;Baldur's Gate: Enhanced Edition Trilogy (EET) - EET core (resource importation)
+EET_gui:0;Baldur's Gate: Enhanced Edition Trilogy (EET) - Gui - Siege of Dragonspear
+baldurs_gate_graphical_overhaul;Baldur's Gate Graphics Overhaul - BGGO for EET, BGT, BGEE, BG2EE, ToB and Tutu
+bubb_revert_pathfinding:0;bubb_revert_pathfinding - Bubb's v2.6.6.0+ Pathfinding Revert
+
+// BG1 CONTENT
+EBG1_MainComponent;Endless BG1 Mod - Endless BG1: Main Component (Required)
+EBG1_MoreFlavor;Endless BG1 Mod - More Flavor to Hero of Baldur's Gate (Includes PC's Residence Inside Palace)
+EBG1_HeroCutscene;Endless BG1 Mod - Short Public Hero Tribute
+EBG1_SarevokItems;Endless BG1 Mod - Sarevok's Unique Items
+EBG1_SarevokSword;Endless BG1 Mod - Sarevok's Sword
+EBG1_ImoenJannath;Endless BG1 Mod - Imoen and Duke Jannath (Imoen Gets Residence Inside Palace)
+EBG1_EltanInPalace;Endless BG1 Mod - Duke Eltan Is in the Palace
+EBG1_FFHealerInBhaalTemple;Endless BG1 Mod - Flaming Fist After Final Fight
+EBG1_ElminsterAppearance_jastey;Endless BG1 Mod - jastey's Version
+EBG1_RefugeesInBGCity;Endless BG1 Mod - First Refugees Come to Baldur's Gate
+EBG1_TreasurerInPalaceDungeon;Endless BG1 Mod - Ophyllis the Treasurer is Inside Palace Dungeon
+EBG1_DenkodCommentsOnSarevoksDeath;Endless BG1 Mod - Denkod in Thieves' Guild Comments on Sarevok's Death
+EBG1_SkipThievesMazeOnce;Endless BG1 Mod - Skip Thieves' Maze Once After Sarevok's Death
+EBG1_FensterInPalace;Endless BG1 Mod - Fenster the Palace Healer Is in the Palace
+EBG1_CorwinInPalace;Endless BG1 Mod - Captain Corwin Is in the Palace
+bgqe_nashkelmonster;Baldur's Gate Mini Quests and Encounters Modification - Nashkel Monster Quest
+bgqe_fallenpaladin;Baldur's Gate Mini Quests and Encounters Modification - Fallen Paladin Quest
+bgqe_undyinglove;Baldur's Gate Mini Quests and Encounters Modification - Undying Love Quest
+bgqe_orclover;Baldur's Gate Mini Quests and Encounters Modification - Lovesick Half-Orc
+bgqe_unexpectedhelp;Baldur's Gate Mini Quests and Encounters Modification - Unexpected Help Quest
+bgqe_drunk;Baldur's Gate Mini Quests and Encounters Modification - Drunk near Beregost Temple
+bgqe_noober;Baldur's Gate Mini Quests and Encounters Modification - A Warm Place for Noober
+bgqe_bragesword;Baldur's Gate Mini Quests and Encounters Modification - Brage's Sword
+bgqe_seacharts;Baldur's Gate Mini Quests and Encounters Modification - Legal Sea Charts Sources
+bgqe_waterqueentemple;Baldur's Gate Mini Quests and Encounters Modification - Additions to the Lady's Hall and the Bitch Queen's Temple
+bgqe_worriedfarmer;Baldur's Gate Mini Quests and Encounters Modification - A Worried Farmer
+bgqe_bodiesforgoodcause;Baldur's Gate Mini Quests and Encounters Modification - Bodies for a Good Cause
+bgqe_cordyrnokillingsil;Baldur's Gate Mini Quests and Encounters Modification - Finish Cordyr's Quest without killing Sil
+AscalonsQuestpack-JobWellPaid;Ascalon's Questpack - A Job Well-Paid
+AscalonsQuestpack-FeastforGnolls;Ascalon's Questpack - A Feast for the Gnolls
+AscalonsQuestpack-Rabbit;Ascalon's Questpack - Original version: Ugh and Jumper are inside the cave.
+AscalonsQuestpack-LostSon;Ascalon's Questpack - The Lost Son
+AscalonsQuestpack-WolvesMen_Highhedge;Ascalon's Questpack - Quest uses hut near Thalantyr in High Hedge.
+AscalonsQuestpack-GreatKarlini;Ascalon's Questpack - The Great Carlini
+AscalonsQuestpack-Gibberlings;Ascalon's Questpack - A Home for the Gibberlings
+AscalonsQuestpack-Fans;Ascalon's Questpack - Fangirls
+AscalonsQuestpack-SerpentsAbbathor_Tweak;Ascalon's Questpack - Tweaked version: quest can be finished in BG1.
+AscalonsQuestpack-HalflingEyeless;Ascalon's Questpack - A Halfling among the Eyeless
+SotSC:0;Shades of the Sword Coast - Shades of the Sword Coast - Expansion Pack for BGEE
+BS_BalduransSeatower-main;BS Balduran's Seatower - The BS Company presents Balduran's Seatower
+Loretakers:0;Loretakers - Loretakers V 1.4
+AWizardDidIt-Blackhearts_BG1;Blackhearts - Install Blackhearts for "BGEE only" or "EET including BGEE and BG2EE"
+cd_the_calling_mage;The Calling - The Calling
+cd_the_calling_peaceful_kaishas_resolution;The Calling - Peaceful Werewolf Isle Resolution
+cd_the_calling_exotic_items;The Calling - Exotic Item Pack
+
+// SOD CONTENT
+c#sodboabri_AcknowledgeSceneBoareskyrBridge;The Boareskyr Bridge Scene - Scene at Boareskyr Bridge will be Acknowledged: Add NPC Reactions
+c#sodboabri_TescriptionText;The Boareskyr Bridge Scene - Add Description Text to Original Scene at Bridge
+c#sodboabri_DifferentChoices;The Boareskyr Bridge Scene - Bridge Scene has Different Choices
+c#sodboabri_StatChanges;The Boareskyr Bridge Scene - Add Stat Changes to Choices at Bridge
+C#AnotherFineHell-Main;Another Fine Hell for SoD - Another Fine Hell - Optional Ending for SoD and BGII Closure
+C#AnotherFineHell-ImoensChest;Another Fine Hell for SoD - PC's and Imoen's chest in Palace should have their content
+Imoen4Ever-SoD-BetterReasonPalace;Imoen 4 Ever - Imoen 4 Ever in SoD: Imoen Gives Better Reason to Stay Behind in Palace
+Reflections:100;Reflections - Reflections of Destiny BG1: The Future is Now
+Reflections:110;Reflections - Reflections of Destiny BG1: The Mirror Shard
+Reflections:200;Reflections - Reflections of Destiny SoD: Rewriting History
+Reflections:220;Reflections - Reflections of Destiny SoD: Magical Realism
+Reflections:230;Reflections - Reflections of Destiny SoD: Nothing to Fear but Feyr Itself
+Reflections:240;Reflections - Reflections of Destiny SoD: The Precipice of Death
+Reflections:320;Reflections - Reflections of Destiny BG2: Imoen Can Die, by Jastey
+Reflections:330;Reflections - Reflections of Destiny BG2: Wherever You Go There You Are
+
+// BG2 CONTENT
+Imoen4Ever-BGII-ImoenReturnsChapter2;Imoen 4 Ever - Imoen 4 Ever in BGII: Imoen Returns after Talking to Gaelan in Chapter 2
+Imoen4Ever-BGII-DialoguesContentSoA;Imoen 4 Ever - Imoen 4 Ever in BGII: Give Imoen Dialogue Content in SoA
+Imoen4Ever-BGII-YoshimoBrynnlaw;Imoen 4 Ever - Imoen 4 Ever in BGII: Yoshimo Comes to Brynnlaw
+Imoen4Ever-BGII-ImoenProtectionSpellChapter2&3;Imoen 4 Ever - Imoen 4 Ever in BGII: Give Imoen Protection Spell in Chapters 2 & 3
+Ascension-RewrittenFinalChapterOfToB;Ascension - Rewritten Final Chapter of Throne of Bhaal
+Ascension-BalthazarCanBeRedeemed;Ascension - Balthazar can be redeemed
+Ascension-ImprovedSarevokPlayerInteractions;Ascension - Improved Sarevok-Player Interactions
+Ascension-ImprovedImoenPlayerInteractions;Ascension - Improved Imoen-Player Interactions in Throne of Bhaal
+Ascension-RestoredBhaalspawnPowers;Ascension - Restored Bhaalspawn Powers
+Ascension-ImprovedSlayerTransformation;Ascension - Improved Slayer Transformation
+Ascension-DavidGaiderExpandedEpilogues;Ascension - David Gaider's expanded epilogues for Bioware NPCs
+Ascension-ExtendedEpiloguesForEENPCbyShawne;Ascension - Extended Epilogues for additional Beamdog NPCs, by shawne
+Ascension-SharperPortraitsAbazigalGromnir;Ascension - Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW
+Ascension-SlightlyImprovedCutscenes;Ascension - Slightly improved cutscenes, by DavidW
+ub:1;Unfinished Business - The Suna Seni/Valygar Relationship
+ub:2;Unfinished Business - Kalah and What He Was Promised
+ub:4;Unfinished Business - Gorje Hilldark and the Extended Illithium Quest
+ub:5;Unfinished Business - The Pai'Na/Spider's Bane Quest
+ub:6;Unfinished Business - Restored Crooked Crane Inn
+ub:7;Unfinished Business - Restored Encounters
+ub:8;Unfinished Business - Artemis Entreri in Bodhi's Lair
+ub:9;Unfinished Business - Corrected "Xzar's Creations"
+ub:10;Unfinished Business - Restored Hell Minions, by SimDing0
+ub:12;Unfinished Business - Item Restorations
+ub:15;Unfinished Business - NPC Portrait Restorations
+ub:17;Unfinished Business - Corrected Character Names and Biographies
+ub:18;Unfinished Business - Restored Minor Dialogs
+ub:20;Unfinished Business - Extended ToB Item Descriptions
+ub:21;Unfinished Business - Throne of Bhaal Minor Restorations
+ub:24;Unfinished Business - Sarevok's Remorse
+ub:25;Unfinished Business - The Murder of Acton Balthis, by Kulyok
+Almaterias_Restoration_Project-Restored_Locations;Almateria's Restoration Project - Restored Locations
+Almaterias_Restoration_Project-Restored_Characters_and_Dialogs;Almateria's Restoration Project - Restored Characters and Dialogs
+Almaterias_Restoration_Project-Restored_Sounds;Almateria's Restoration Project - Restored Sounds
+Almaterias_Restoration_Project-Restored_Items;Almateria's Restoration Project - Restored Items
+Almaterias_Restoration_Project-Restored_Wish_Options;Almateria's Restoration Project - Restored Wish Options
+Almaterias_Restoration_Project-Restored_XP_for_Minor_Things;Almateria's Restoration Project - Restored XP for Minor Things
+Almaterias_Restoration_Project-Lich_Deril;Almateria's Restoration Project - Lich Deril
+Almaterias_Restoration_Project-Restored_Random_Encounters;Almateria's Restoration Project - Restored Random Encounters
+Almaterias_Restoration_Project-Minor_Restorations;Almateria's Restoration Project - Minor Restorations
+Almaterias_Restoration_Project-Restored_Final_Slayer_Dream;Almateria's Restoration Project - Restored Final Slayer Dream
+Almaterias_Restoration_Project-Alternate_Slayer_Change;Almateria's Restoration Project - Alternate Slayer Change
+Almaterias_Restoration_Project-Restored_Waukeens_Promenade_Cutscene;Almateria's Restoration Project - Restored Waukeen's Promenade Cutscene
+Assassinations:0;Assassinations - Assassinations mod for Baldur's Gate II
+L#-OOZESLOUNGE;Athkatlan Grounds: The Ooze's Lounge - Athkatlan Grounds: The Ooze's Lounge - a new area under Athkatlan Slums
+TangledIsle:0;Athkatlan Grounds: The Tangled Oak Isle - Yes, but don't patch existing save games
+L#-JUNIPERSTONE;The Dreadful Tales: Juniper and the Stone Leech - The Dreadful Tales: Juniper and the Stone Leech - companion and a quest mod for BG2EE ToB
+L#-JUNIPERSTONE-PID;The Dreadful Tales: Juniper and the Stone Leech - The Dreadful Tales: Juniper and the Stone Leech - Player-Initiated Dialogues for Juniper
+L#-XZELE-NOPATCH;The Dreadful Tales: In Love, Undeath - Yes, but don't patch existing save games
+InLoveUndeath:2;The Dreadful Tales: In Love, Undeath - Xzele: Player-Initiated Dialogues
+L#-BloodiedStingsOfBarovia;The Dreadful Tales: The Bloodied Stings of Barovia - The Bloodied Stings of Barovia - a dark Ravenloft adventure for Baldur's Gate 2 EE
+Tidings:0;Tidings - Dark Tidings
+Godcall:0;Godcall - Call Of The Lost Goddess V 1.4
+Godcall:50;Godcall - Install portraits for the major NPCs of the mod
+Godcall:200;Godcall - Install AI voiceover for major NPCs of the mod (mostly in English)
+hidden_adventures-ladyelgea;Hidden Adventures - Lady Elgea's extended plot
+hidden_adventures-anomenplot;Hidden Adventures - Anomen's extended plot
+hidden_adventures-jerliashop;Hidden Adventures - Jerlia's Ore Shop
+hidden_adventures-holywater_lathandertemple;Hidden Adventures - Elven holy water in the Temple of Lathander
+hidden_adventures-waveblade_treasury;Hidden Adventures - Wave Blade in Treasury
+hidden_adventures-silverdagger_ID;Hidden Adventures - Silver Dagger in Irenicus Dungeon
+hidden_adventures-bard_stronghold_resting;Hidden Adventures - Bards can spend the night at their stronghold (Five Flagons)
+hidden_adventures-bard_stronghold_bard;Hidden Adventures - A bard for the bard stronghold
+hidden_adventures-silversword;Hidden Adventures - Silver Sword
+hidden_adventures-tunnel_saradush;Hidden Adventures - A Tunnel for Saradush
+hidden_adventures-masktemple_docks;Hidden Adventures - Temple of Mask in Docks District
+
+// EET Content
+cowledmenace:1000;cowledmenace - Main Component
+cowledmenace:2100;cowledmenace - Appropriate Items for High-Level Spellcasters
+
+// BG1 NPC EXPANSIONS
+bg1npc_project-main;The BG1NPC Project - The BG1 NPC Project: Required Modifications
+bg1npc_project-banters_quests_interjections;The BG1NPC Project - The BG1 NPC Project: Banters, Quests, and Interjections
+bg1npc_project-ajantisromance_1h;The BG1NPC Project - Speed: 1 hour real time (standard) minimum between LoveTalks
+bg1npc_project-branwenromance_1h;The BG1NPC Project - Speed: 1 hour real time (standard) minimum between LoveTalks
+bg1npc_project-coranromance_1h;The BG1NPC Project - Speed: 1 hour real time (standard) minimum between LoveTalks
+bg1npc_project-dynaheirromance_1h;The BG1NPC Project - Speed: 1 hour real time (standard) minimum between LoveTalks
+bg1npc_project-sharteelromance_1h;The BG1NPC Project - Speed: 1 hour real time (standard) minimum between LoveTalks
+bg1npc_project-xanromance_1h;The BG1NPC Project - Speed: 1 hour real time (standard) minimum between LoveTalks
+bg1npc_project-romancechallenge;The BG1NPC Project - The BG1 NPC Project: Female Romance Challenges, Ajantis vs Xan vs Coran
+bg1npc_project-send_npcs_inn;The BG1NPC Project - The BG1 NPC Project: NPCs can be sent to wait in an inn
+bg1npc_project-bardicreputation;The BG1NPC Project - The BG1 NPC Project: Bardic Reputation Adjustment
+bg1npc_project-sarevokdiary_sixofspades;The BG1NPC Project - SixofSpades Extended Sarevok's Diary
+bg1npc_project-kivanproficiency_spears;The BG1NPC Project - Kivan uses spears
+bg1npc_project-portraits_nonjoinable;The BG1NPC Project - The BG1 NPC Project: Add Non-Joinable NPC portraits to quests and dialogues
+bg1npc_project-pid;The BG1NPC Project - The BG1 NPC Project: Player-Initiated Dialogues
+bg1npcmusic:0;bg1npcmusic - Install All Audio
+AjantisBG1Expansion-main;Ajantis BG1 Expansion Modification - Installs Ajantis BG1 Expansion Modification
+AjantisBG1Expansion-shieldBAM;Ajantis BG1 Expansion Modification - Install the unique BG:EE BAM for Ajantis' Family Shield
+C#Ajantis_SoD_NPC-crossmod_content;Ajantis BG1 Expansion Modification - Ajantis SoD NPC: Crossmod Content
+AY-ChattyImoen-CharSnds;Chatty Imoen - Chatty Imoen: Expanded Character Sounds
+AY-ChattyImoen-NPCInteractions;Chatty Imoen - Chatty Imoen: Add NPC Interactions
+
+// BG2 NPC EXPANSIONS
+L#-VIC-REV-M-A-C;Viconia Revamped - Multi-class: Assassin/Cleric
+L#-VIC-REV-ABI;Viconia Revamped - Add special ability: Embrace of Shar
+jaheira_friendship;Jaheira Friendship - Jaheira Friendship for BG2/BG2EE
+yoshimo_friendship;Yoshimo Friendship - Yoshimo Friendship Mod for BGII: SoA
+minsc_friendship;Minsc Friendship - Minsc Friendship for BG2 and ToB
+cernd:0;Cernd Friendship - Cernd Friendship for BG2: ToB
+valygar_friendship;Valygar Friendship - Valygar Corthala Friendship
+haerdalis_friendship:0;Haer'dalis Friendship - Haer'Dalis Friendship for BG2: ToB
+neera_expansion;Neera Expansion - Neera Expansion
+Wings:0;Wings - Wings for BG2:EE
+Wings:1;Wings - Restore missing banters?
+berelinde-keldorn_rom-main;berelinde's Keldorn Romance - berelinde's Keldorn Romance
+berelinde-keldorn_rom-RomanceMatchLGNG;berelinde's Keldorn Romance - Romance is available to LG/NG protagonists only (Recommended)
+CorthalaRomantique-main;Corthala Romantique - Corthala Romantique - Main Valygar Romance
+CorthalaRomantique-SphereGuard;Corthala Romantique - Install Leonora Content: A Guard for the Sphere
+L#-YOSHIMO-ROMANCE;Yoshimo Romance - Yoshimo Romance and additional friendship talks for BG2 / BG2EE
+L#-YOSHIMO-ROMANCE-CMATCH;Yoshimo Romance - Romance restriction: Keep restrictions from the early version of the mod (elven/half-elven/human/halfling/tiefling female, charisma 13+)
+ImoenRomance:0;ImoenRomance - Imoen NPC Romance Mod for BG2:SoA TOB (4.1.2 Version!)
+luvnalia:0;luvnalia - Arnel's Nalia Romance Revision
+Nalia_at_Last:0;Nalia_at_Last - Nalia at Last: A ToB Romance MoD.
+Nalia_at_Last:1;Nalia_at_Last - Romance Theme Music
+OWRomanceExpanded-Viconia;BG2 Romance Expanded - Viconia Romance Expanded
+OWRomanceExpanded-Phaere;BG2 Romance Expanded - Phaere Expanded
+SkitiaRomanceTweak:0;SkitiaRomanceTweak - Skitia's Romance Tweak for BG2:EE
+YoshimosRemorse:0;YoshimosRemorse - Yoshimo's Remorse
+YoshimosRemorse:1;YoshimosRemorse - Bounty Hunter 10 / Fighter
+
+// BG1 NPC RETURNING IN BG2
+ajantisbg2:0;Sir Ajantis NPC for BGII - Sir Ajantis NPC for BGII
+ajantisbg2:1;Sir Ajantis NPC for BGII - Install the unique BG(II):EE BAM for Ajantis' Family Shield
+ajantisbg2:5;Sir Ajantis NPC for BGII - Ajantis kit choice: make Ajantis Cavalier
+L#-QUAYLEBG2;Quayle BG2 - Quayle NPC for Baldur's Gate 2
+L#-QUAYLEBG2-PID;Quayle BG2 - Quayle NPC: Player-Initiated Dialogues
+yeslicknpc:0;Yeslick NPC - Yeslick is a regular Fighter-Cleric
+L#-XzarAndMontaron;The Return of Xzar and Montaron - The Return of Xzar and Montaron
+L#-XzarAndMontaron-PIDs;The Return of Xzar and Montaron - The Return of Xzar and Montaron - Player-Initiated Dialoges
+p#_kivan;Kivan and Deheriana Companions for BG2 - Kivan of Shilmista
+p#_kivan_deheriana_enchanter;Kivan and Deheriana Companions for BG2 - Specialist-Mage, Enchanter
+FaldornBG2:0;Faldorn BG2EE - Faldorn NPC for BG2EE
+FaldornBG2:1;Faldorn BG2EE - Faldorn NPC for BG2EE: Player-Initiated Dialogues (PIDs)
+L#-KHALIDBG2EE;Khalid BG2EE - Khalid for BG2EE
+L#-KHALIDBG2EE-PIDS;Khalid BG2EE - Khalid for BG2EE: Player-Initiated Dialogues
+O#CoranBGII-main;Coran NPC MOD for Baldur's Gate II - Coran NPC MOD for Baldur's Gate II
+O#CoranBGII-Delete_original_Coran;Coran NPC MOD for Baldur's Gate II - Delete old Coran from the Forest of Tethyr (RECOMMENDED)
+BG1NPCSoA:2;BG1 NPC in SoA&ToB - Shar-Teel NPC in BG2. "Nightbringer of Shar" (SoA)
+BG1NPCSoA:11;BG1 NPC in SoA&ToB - ToB-part for Shar-Teel or/and Yeslick, Garrick, Branwen, Skie, Eldoth
+xan:0;Xan NPC MOD for Baldur's Gate II - Xan NPC MOD for Baldur's Gate II
+xan:1;Xan NPC MOD for Baldur's Gate II - Change Xan's class to Fighter/Mage
+
+// NEW NPC
+JasteysSolaufeinRescue-Main;Solaufein's Rescue - jastey's Solaufein NPC mod for BGII - Solaufein's Rescue: Jastey's Solaufein NPC for BGII
+JasteysSolaufeinRescue-Give_Ust_Natha_Solaufein_Portrait;Solaufein's Rescue - jastey's Solaufein NPC mod for BGII - Give Solaufein in Ust Natha the Mod's Portrait
+JasteysSolaufeinRescue-Detection_for_Drow_PC;Solaufein's Rescue - jastey's Solaufein NPC mod for BGII - Install Detection for Drow PC
+BragesRedemption-main;Brage's Redemption - Brage NPC - Brage's Redemption - Brage Joinable NPC for Baldur's Gate
+BragesRedemption-portrait_sound_original_Brage;Brage's Redemption - Brage NPC - Assign the mod's portrait and soundset to the original Brage in game.
+BragesRedemption-UniqueSword;Brage's Redemption - Brage NPC - Give Brage unique Two-Handed Sword +1
+BragesRedemption-Crossmod;Brage's Redemption - Brage NPC - Brage's Redemption: Crossmod Content
+adrian_sorcerer;Adrian NPC for BGII - Adrian is a Sorcerer
+adrian_crossmod_content;Adrian NPC for BGII - Crossmod content
+adrian_tolerates_high_reputation-active_romance;Adrian NPC for BGII - For Active Romance or Friendship
+L#-DVARADIME;Dvaradime BG2EE NPC - Dvaradime - Baldur's Gate 2: EE NPC
+L#-DVARADIME-PID;Dvaradime BG2EE NPC - Dvaradime - Player-Initiated Dialogue
+Ascalons_Breagar-main;Ascalon's Breagar - Breagar: Contents
+Ascalons_Breagar-crossmod;Ascalon's Breagar - Breagar: Crossmods and PID
+L#-VERRSZABG2;Verr'Sza BG2EE - Verr'Sza â€“ the rakshasa NPC for BG2EE
+
+// NPC RELATED
+A7-CONVENIENTEENPCS-APPEARANCE-DECIDE_INDIVIDUALLY;Convenient Enhanced Edition NPCs - Decide for each NPC individually
+A7-CONVENIENTEENPCS-APPEARANCE-BAELOTH_PASSIVE;Convenient Enhanced Edition NPCs - Make Baeloth passive
+A7-CONVENIENTEENPCS-APPEARANCE-HEXXAT_DISABLE;Convenient Enhanced Edition NPCs - Disable Hexxat
+A7-CONVENIENTEENPCS-APPEARANCE-NEERA_PASSIVE;Convenient Enhanced Edition NPCs - Make Neera passive
+A7-CONVENIENTEENPCS-APPEARANCE-RASAAD_PASSIVE;Convenient Enhanced Edition NPCs - Make Rasaad passive
+A7-CONVENIENTEENPCS-APPEARANCE-NPC_ITEMS_FOR_ALL;Convenient Enhanced Edition NPCs - Make NPC-specific items available for everyone
+A7-CONVENIENTEENPCS-APPEARANCE-CAELAR_FOLLOWER_CONDITIONAL;Convenient Enhanced Edition NPCs - Joins as controllable follower if no free party slots available
+iep_banters;IEP Extended Banters - Extended NPC-NPC Interaction SoA
+iep_banters_minsc_aerie_tob;IEP Extended Banters - Extended Minsc/Aerie Interaction ToB
+iep_banters_imoen_restropection_tob;IEP Extended Banters - Imoen "Retrospection" dialogue for BGII: ToB
+iep_banters_anomen_romance_wakeup;IEP Extended Banters - Wake-Up dialogue for Anomen Romance (By David Gaider with additions from Kulyok)
+iep_npc_conflicts_revision;IEP Extended Banters - NPC Conflict Revisions
+iep_restored_npc_interjection_underdark;IEP Extended Banters - Restored Aerie/Jaheira/Anomen interjection in Underdark
+PPGBanterPacks-soa;Banter Packs - Pocket Plane Banter Pack for BG2: Shadows of Amn
+PPGBanterPacks-tob;Banter Packs - Pocket Plane Banter Pack for BG2: Throne of Bhaal
+cd_crossmod_banter_pack_bg2_soa;Crossmod Banter Pack for Baldur's Gate II - Crossmod Banter Pack for Shadows of Amn Content
+cd_crossmod_banter_pack_bg2_tob;Crossmod Banter Pack for Baldur's Gate II - Crossmod Banter Pack for Throne of Bhaal Content
+cd_crossmod_banter_pack_bg2_romance_conflicts;Crossmod Banter Pack for Baldur's Gate II - Crossmod Romance Conflicts
+
+// NPC AWARE CONTENT MODS
+HerThiMoney:0;Heroes, Thieves and Moneylenders - Component 1. Interjections & Mini-quests (by Austin & Arcanecoast Team)
+HerThiMoney:20;Heroes, Thieves and Moneylenders - Component 3. Shadow-Covered Love & Death (by Alisia & Austin)
+HerThiMoney:30;Heroes, Thieves and Moneylenders - Component 4. The Missing Troll Case (by Alisia & Austin)
+HerThiMoney:40;Heroes, Thieves and Moneylenders - Component 5. Unlocked original dialogs of all NPC (by Tipun & Austin)
+
+// ITEMS
+c2_item_upgrade_soa_seamless;Item Upgrade - Revised Version (new upgrades presented in the same style as existing upgrades)
+c2_item_upgrade_tob_seamless;Item Upgrade - Revised Version (new upgrades presented in the same style as existing upgrades)
+L#-OfHeirloomsAndClasses;Of Heirlooms and Classes - new artifacts forgeable by Cromwell - Of Heirlooms and Classes - new forgeable artifacts for different classes
+swordap:0;Improved HaerDalis Swords - Improved Haer'Dalis' swords (special for Kania)
+
+// KITS FIXES
+wsr:100;wsr - Wizard Slayer kit revision
+wsr:200;wsr - Wizard Slayer High Level Ability revision
+wsr:302;wsr - Moderate changes
+RelieveWizardSlayer:0;Relieve Wizard Slayer
+RelieveWizardSlayer:1;Relieve Wizard Slayer - Valygar, the Wizard Slayer
+A7-IMPROVEDARCHER-ARCHER;Improved Archer Kit - Improved Archer Kit
+A7-IMPROVEDARCHER-BOWS_AND_AMMO;Improved Archer Kit - Add +4 arrows, bolts and powerful bows to the game
+
+// TWEAKS
+cd_tweaks_nalia_avatar_change;The Tweaks Anthology - Change Nalia's Avatar to Thief
+cd_tweaks_force_all_dialogue_to_pause;The Tweaks Anthology - Force All Dialogue to Pause Game
+cd_tweaks_more_interjections;The Tweaks Anthology - More Interjections
+cd_tweaks_reveal_cloakwood_4;The Tweaks Anthology - All of Cloakwood except the mines
+cd_tweaks_improved_athkatla_guard;The Tweaks Anthology - Improved Athkatlan City Guard
+cd_tweaks_breakable_armor_bg;The Tweaks Anthology - Breakable Iron Non-Magical Shields, Helms, and Armor
+cd_tweaks_mp_kickout_dialogue;The Tweaks Anthology - Improved Multi-Player Kick-Out Dialogues
+cd_tweaks_add_bags_of_holding;The Tweaks Anthology - Add Bags of Holding
+cd_tweaks_stores_sell_higher_stacks;The Tweaks Anthology - Stores Sell Higher Stacks of Items
+cd_tweaks_edwina;The Tweaks Anthology - Female Edwina [Davide Carte, Wendy Yung, Weimer]
+cd_tweaks_cromwell_updates_wk_items;The Tweaks Anthology - Allow Cromwell to Upgrade Watcher's Keep Items
+cd_tweaks_cespenar_updates_soa_items;The Tweaks Anthology - Allow Cespenar to Use Cromwell Recipes
+cd_tweaks_move_bg_npcs_eldoth;The Tweaks Anthology - Move NPCs to Convenient Locations: Move Eldoth to the Coast Way
+cd_tweaks_move_bg_npcs_alora;The Tweaks Anthology - Move NPCs to Convenient Locations: Move Alora to Gullykin
+cd_tweaks_move_bg_npcs_quayle;The Tweaks Anthology - Move NPCs to Convenient Locations: Move Quayle to the Nashkel Carnival
+cd_tweaks_move_bg_npcs_sharteel;The Tweaks Anthology - Move NPCs to Convenient Locations: Move Shar-Teel to North Nashkel Road
+cd_tweaks_move_bg_npcs_tiax;The Tweaks Anthology - Move NPCs to Convenient Locations: Move Tiax to Beregost
+cd_tweaks_move_bg_npcs_viconia;The Tweaks Anthology - Move NPCs to Convenient Locations: Move Viconia to South Beregost Road
+cd_tweaks_change_cloakwood_trigger;The Tweaks Anthology - Change Cloakwood Mine Chapter End Change Trigger to Non-TotSC Behavior [plainab]
+cd_tweaks_increase_ammo_stacks_120;The Tweaks Anthology - Stacks of 120
+cd_tweaks_increase_gem_stacks_120;The Tweaks Anthology - Stacks of 120
+cd_tweaks_increase_potion_stacks_120;The Tweaks Anthology - Stacks of 120
+cd_tweaks_increase_scroll_stacks_120;The Tweaks Anthology - Stacks of 120
+cd_tweaks_happy_neutrals;The Tweaks Anthology - Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]
+cd_tweaks_disable_malchor;The Tweaks Anthology - Keep Drizzt's Loot, Disable Malchor Harpell [Weimer]
+cd_tweaks_taerom_makes_multiple_ankheg_armor;The Tweaks Anthology - Taerom Makes Additional Ankheg Armor [Icendoan/grogerson]
+cd_tweaks_consistent_stats_edwin_bg2;The Tweaks Anthology - Use BG2 values
+cd_tweaks_consistent_stats_jaheira_bg2;The Tweaks Anthology - Use BG2 values
+cd_tweaks_consistent_stats_minsc_bg2;The Tweaks Anthology - Use BG2 values
+cd_tweaks_consistent_stats_viconia_bg2;The Tweaks Anthology - Use BG2 values
+cd_tweaks_make_montaron_assassin;The Tweaks Anthology - Make Montaron an Assassin [Andyr]
+cd_tweaks_kagain_legal_con;The Tweaks Anthology - Give Kagain a Legal Constitution Score of 19
+cd_tweaks_coran_legal_dex;The Tweaks Anthology - Give Coran a Legal Dexterity Score of 19
+cd_tweaks_move_boo_into_inventory;The Tweaks Anthology - Move Boo Into Minsc's Pack
+cd_tweaks_protect_sharteel;The Tweaks Anthology - Ensure Shar-Teel Doesn't Die in the Original Challenge
+stratagems:2060;Sword Coast Stratagems - Rebalancings of slightly-too-powerful spells
+stratagems:2900;Sword Coast Stratagems - Move or modify some overpowered magic items
+stratagems:3010;Sword Coast Stratagems - Replace +1 arrows and other projectiles with nonmagical "fine" ones
+stratagems:3022;Sword Coast Stratagems - Replace many +1 magic weapons with nonmagical "fine" ones - fine weapons are affected by the iron crisis
+stratagems:3015;Sword Coast Stratagems - Re-introduce potions of extra-healing
+stratagems:3540;Sword Coast Stratagems - Inquisitors dispel at 1.5 x their level (not twice their level)
+stratagems:4000;Sword Coast Stratagems - More Appropriate-Speed Bears
+stratagems:4020;Sword Coast Stratagems - More realistic wolves and wild dogs
+stratagems:4030;Sword Coast Stratagems - Improved shapeshifting
+stratagems:4051;Sword Coast Stratagems - Reputation increases at about 1/2 the normal rate
+stratagems:4130;Sword Coast Stratagems - Revised handling of death effects like disintegration, petrification and imprisonment (party members who are disintegrated etc can be resurrected; imprisoned or petrified characters rejoin the party automatically; the game doesn't end if the main character is petrified or imprisoned)
+stratagems:4145;Sword Coast Stratagems - Remove the tutorial NPCs from Candlekeep
+stratagems:4150;Sword Coast Stratagems - Allow the Cowled Wizards to detect spellcasting in most indoor, above-ground areas in Athkatla
+stratagems:4162;Sword Coast Stratagems - License costs 20,000 gp
+stratagems:4172;Sword Coast Stratagems - Gaelan wants 80,000 gold pieces
+stratagems:4215;Sword Coast Stratagems - Remove unrealistically helpful items from certain areas
+stratagems:4218;Sword Coast Stratagems - Remove all ammo from random containers
+stratagems:4230;Sword Coast Stratagems - Delay the arrival of the "bonus merchants" in the Adventurers' Mart and the Copper Coronet
+stratagems:5000;Sword Coast Stratagems - Ease-of-use party AI
+stratagems:5080;Sword Coast Stratagems - Improved BG Textscreens
+stratagems:5900;Sword Coast Stratagems - Initialise AI components (required for all tactical and AI components)
+stratagems:6000;Sword Coast Stratagems - Smarter general AI
+stratagems:6010;Sword Coast Stratagems - Better calls for help
+stratagems:6030;Sword Coast Stratagems - Smarter Mages
+stratagems:6040;Sword Coast Stratagems - Smarter Priests
+stratagems:6100;Sword Coast Stratagems - Potions for NPCs
+stratagems:6200;Sword Coast Stratagems - Improved Spiders
+stratagems:6300;Sword Coast Stratagems - Smarter sirines and dryads
+stratagems:6320;Sword Coast Stratagems - Smarter basilisks
+stratagems:7020;Sword Coast Stratagems - Improved deployment for parties of assassins
+stratagems:7030;Sword Coast Stratagems - Improved Kobolds
+stratagems:7040;Sword Coast Stratagems - Relocated bounty hunters
+stratagems:8090;Sword Coast Stratagems - Party's items are taken from them in Spellhold
+stratagems:8130;Sword Coast Stratagems - Rebalanced troll regeneration
+ZS_CanIStabYou:106;ZS_CanIStabYou - All humanoids can be backstabbed, except humanoid ToB bosses
+ZS_CanIStabYou:102;ZS_CanIStabYou - Humanoid ToB bosses can be backstabbed
+ZS_CanIStabYou:103;ZS_CanIStabYou - Yaga-Shura can be backstabbed
+ZS_CanIStabYou:100;ZS_CanIStabYou - Beholders can be backstabbed
+ZS_CanIStabYou:110;ZS_CanIStabYou - Dragons can be backstabbed (except Abazigal)
+ZS_CanIStabYou:104;ZS_CanIStabYou - Minotaurs can be backstabbed
+ZS_CanIStabYou:118;ZS_CanIStabYou - Liches can be backstabbed
+ZS_CanIStabYou:201;ZS_CanIStabYou - All spectral creatures are immune to backstab
+ZS_CanIStabYou:205;ZS_CanIStabYou - All golems are immune to backstab
+ZS_CanIStabYou:300;ZS_CanIStabYou - Every creature marked as able to see through invisibility is automatically immune to backstabs (version 2.6+)
+ZS_CanIStabYou:302;ZS_CanIStabYou - Dragons cannot see through invisibility, except Abazigal
+ZS_CanIStabYou:305;ZS_CanIStabYou - Liches cannot see through invisibility
+ZS_CanIStabYou:308;ZS_CanIStabYou - Sendai cannot see through invisibility
+ZS_CanIStabYou:309;ZS_CanIStabYou - Balthazar cannot see through invisibility
+ZS_CanIStabYou:310;ZS_CanIStabYou - Yaga-Shura cannot see through invisibility
+EET_Tweaks:3000;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Disable hostile reaction after charm
+EET_Tweaks:3020;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Constitution loss & blocked summoning for 1 week
+EET_Tweaks:4040;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Import party items to SoA
+EET_Tweaks:4050;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Books/Scrolls categorization
+EET_Tweaks:4060;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Wand Case
+EET_Tweaks:4070;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Key Ring
+EET_Tweaks:2070;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Party XP for quests distributed individually
+
+// CONTENT MODS INSTALLED AFTER TWEAKS
+A7-SKIPCHATEAUIRENICUS-MAIN;Skip Chateau Irenicus - Skip Chateau Irenicus
+A7-SKIPCHATEAUIRENICUS-NPCS_ALL;Skip Chateau Irenicus - All available NPCs
+A7-SKIPCHATEAUIRENICUS-REALISTIC_OPENING_CUTSCENE;Skip Chateau Irenicus - More realistic opening cutscene
+Crucible-FinalAssaultAI;Crucible - Fully Voiced NPCs using AI
+
+// ADDITIONAL <CHARNAME> PORTRAITS + SCRIPTS
+ISANDIR:0;ISANDIR - CHARNAME menu portraits
+
+// END
+A7-HIDDENGAMEPLAYOPTIONS-INSTALL_ALL;Reveal Hidden Gameplay Options - Install all Hidden Gameplay Options at once
+A7-HIDDENGAMEPLAYOPTIONS-IMPROVED_CHEAT_MENU_UPDATE;Reveal Hidden Gameplay Options - Update resource tables for "Improved Cheat Menu"
+EET_end:0;Baldur's Gate: Enhanced Edition Trilogy (EET) - End - Standard installation
+
+// adjust XP/Prices
+EET_Tweaks:2002;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Disabled XP cap
+EET_Tweaks:2011;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - 161,000 BG1 cap
+EET_Tweaks:2022;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - 500,000 SOD cap
+EET_Tweaks:2032;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - 8,000,000 BG2 cap
+EET_Tweaks:2051;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Decrease to 75% quests XP
+EET_Tweaks:2061;Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks) - Decrease to 75% monsters XP
+ZG-GRAION-GOLD-75;Random Graion Tweaks - Decrease to 75% Loot money 
+ZG-GRAION-GEMS-75;Random Graion Tweaks - Decrease to 75% Gems value
+ZG-GRAION-STORES-FROMPLAYERS-75;Random Graion Tweaks - Decrease to 75% Loot value
+// - 39
