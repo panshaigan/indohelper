@@ -1,58 +1,190 @@
-﻿Name,Codename,Category,URL,Version,Release
-"Imoen Romance",Imoen_Romance,NPC,"http://www.blindmonkey.org/imoen","4.1.2",2024-07-03
-"Isandir's Portaits Pack",isandirs_project_pack,SOUND/GFX,"http://www.shsforums.net/files/file/1091-isandirs-portrait-pack","1.3",2014-08-11
-"Call Of the Lost Goddess",call-of-the-lost-goddess.67,QUEST,"https://baldurs-gate.de/index.php?resources/call-of-the-lost-goddess.67","V 1.5",2025-01-19
-"Dark Tidings",dark-tidings.65,QUEST,"https://baldurs-gate.de/index.php?resources/dark-tidings.65","V 2.5",2024-12-28
-"Loretakers",loretakers.68,QUEST,"https://baldurs-gate.de/index.php?resources/loretakers.68","V 1.4",2024-10-08
-"In Love, Undeath",in-love-undeath,QUEST,"https://downloads.weaselmods.net/download/in-love-undeath","1.8.2",2024-12-14
-"Juniper and the Stone Leech",juniper-and-the-stone-leech,QUEST,"https://downloads.weaselmods.net/download/juniper-and-the-stone-leech","1.7",2024-07-28
-"Khalid BG2",khalid-bg2,NPC,"https://downloads.weaselmods.net/download/khalid-bg2","1.04",2024-07-27
-"Of Heirlooms and Classes",of-heirlooms-and-classes,ITEMS,"https://downloads.weaselmods.net/download/of-heirlooms-and-classes","2.2",2024-09-06
-"Ooze's Lounge",oozes-lounge,QUEST,"https://downloads.weaselmods.net/download/oozes-lounge","2.97",2024-12-12
-"Shades of the Sword Coast",shades-of-the-sword-coast,QUEST,"https://downloads.weaselmods.net/download/shades-of-the-sword-coast","8.9",2025-02-08
-"Tangled Oak Isle",tangled-oak-isle,QUEST,"https://downloads.weaselmods.net/download/tangled-oak-isle","4.5.2",2024-12-15
-"The Bloodied Stings of Barovia",the-bloodied-stings-of-barovia,QUEST,"https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia","2.4",2024-12-20
-"Yoshimo Romance",yoshimo-romance,NPC,"https://downloads.weaselmods.net/download/yoshimo-romance","7.1",2024-12-11
-"Black Hearts",Black-Hearts,QUEST,"https://github.com/11jo/Black-Hearts","56cfa24",2025-02-09
-"BG1NPC",BG1NPC,NPC,"https://github.com/Gibberlings3/BG1NPC","v32",2023-08-02
-"DLC Merger",A7-DlcMerger,EET,"https://github.com/Argent77/A7-DlcMerger","v1.7",2024-12-07
-"Hidden Gameplay Options",A7-HiddenGameplayOptions,TWEAKS,"https://github.com/Argent77/A7-HiddenGameplayOptions","v4.7",2024-03-10
-"Convenient EE NPCs",A7-NoEENPCs,NPC-RELATED,"https://github.com/Argent77/A7-NoEENPCs","v4.6",2024-03-10
-"Skip Chateau Irenicus",A7-SkipChateauIrenicus,QUEST,"https://github.com/Argent77/A7-SkipChateauIrenicus","v3.5",2024-12-07
-"Heroes, Thieves and Moneylenders",HTaM,QUEST,"https://github.com/Austin-BG/HTaM","v.4.6.2",2024-12-02
-"Bubb Revert Pathfinding",IE-Snippets,EET,"https://github.com/Bubb13/IE-Snippets","files",2023-03-04
-"Another Fine Hell",Another_Fine_Hell,QUEST,"https://github.com/Gibberlings3/Another_Fine_Hell","vAlpha_230919",2023-09-19
-"BG Mini Quests Encounters",BG_Quests_And_Encounters,QUEST,"https://github.com/Gibberlings3/BG_Quests_And_Encounters","v28",2025-02-02
-"Balduran's Seatower",BS_Baldurans_Seatower,QUEST,"https://github.com/Gibberlings3/BS_Baldurans_Seatower","vEAOB.9",2023-12-08
-"Cowled Menace",CowledMenace,QUEST,"https://github.com/Gibberlings3/CowledMenace","1.0.3",2024-09-12
-"Crossmod Banter Pack",Crossmod_Banter_Pack_for_Baldurs_Gate_II,NPC-RELATED,"https://github.com/Gibberlings3/Crossmod_Banter_Pack_for_Baldurs_Gate_II","v27",2025-01-25
-"Enhanced Edition Trilogy",EET,EET,"https://github.com/Gibberlings3/EET","V13.4",2021-07-11
-"Endless BG1",EndlessBG1,QUEST,"https://github.com/Gibberlings3/EndlessBG1","v20.0",2025-02-02
-"Imoen4Ever",Imoen4Ever,QUEST,"https://github.com/Gibberlings3/Imoen4Ever","v11-4",2024-02-07
-"Keldorn Romance",Keldorn_Romance,NPC,"https://github.com/Gibberlings3/Keldorn_Romance","v8.1",2023-01-21
-"Sword Coast Stratagems",SwordCoastStratagems,TWEAKS,"https://github.com/Gibberlings3/SwordCoastStratagems","v35.21",2024-11-21
-"The Boareskyr Bridge Scene",The_Boareskyr_Bridge_Scene,QUEST,"https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene","v8",2025-02-02
-"The Calling",The_Calling,QUEST,"https://github.com/Gibberlings3/The_Calling","v5",2023-11-06
-"Tweaks Anthology",Tweaks-Anthology,TWEAKS,"https://github.com/Gibberlings3/Tweaks-Anthology","v16",2022-10-13
-"Ascalon's Questpack",Ascalons_Questpack,QUEST,"https://github.com/Gitjas/Ascalons_Questpack","v6.1",2025-02-04
-"Hidden Adventures",hiddenadventure,QUEST,"https://github.com/Gitjas/hiddenadventure","vBeta_9",2025-01-29
-"Ascension",Ascension,QUEST,"https://github.com/InfinityMods/Ascension","2.0.28",2024-01-20
-"EET Tweaks",EET_Tweaks,TWEAKS,"https://github.com/K4thos/EET_Tweaks","v1.12",2019-08-01
-"Assassinations",Assassinations,QUEST,"https://github.com/Pocket-Plane-Group/Assassinations","v19",2023-08-30
-"Banter Pack",Banter_Pack,NPC-RELATED,"https://github.com/Pocket-Plane-Group/Banter_Pack","v18",2021-09-17
-"BG Unfinished Business",bg1ub,QUEST,"https://github.com/Pocket-Plane-Group/bg1ub","v16.4",2021-05-26
-"Item Upgrade",Item_Upgrade,ITEMS,"https://github.com/Pocket-Plane-Group/Item_Upgrade","v53",2025-01-21
-"Baldur's Gate Graphical Overhaul",Baldurs-Gate-Graphical-Overhaul,SOUND/GFX,"https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul","v3.3",2025-02-02
-"Almateria's Restoration Project",Almaterias_Restoration_Project,QUEST,"https://github.com/SpellholdStudios/Almaterias_Restoration_Project","v10.1",2024-12-03
-"IEP Extended Banter",IEP-Extended-Banters,NPC-RELATED,"https://github.com/Spellhold-Studios/IEP-Extended-Banters","v5.9",2024-12-15
-"Reflections of Destiny",Reflections-of-Destiny,QUEST,"https://github.com/subtledoctor/Reflections-of-Destiny","0.8.1",2024-12-23
-"Can I Stab You",ZS_CanIStabYou-Mod,TWEAKS,"https://github.com/szaumoor/ZS_CanIStabYou-Mod","1.0.3",2025-01-14
-"Chatty Imoen",ChattyImoen,NPC,"https://github.com/The-Gate-Project/ChattyImoen","v1.5",2023-11-21
-"Yoshimo's Remorse",1012-yoshimos-remorse,NPC,"https://www.gibberlings3.net/files/file/1012-yoshimos-remorse","3.1.1",2023-03-01
-"Crucible",crucible,QUEST,"https://www.morpheus-mart.com/crucible","3.1",2024-07-19
-"Adrian",Adrian-NPC,NPC,"https://github.com/Spellhold-Studios/Adrian-NPC","v6.1",2023-06-15
-"Haer’Dalis Swords",HaerDalis-Swords,ITEMS,"https://github.com/Spellhold-Studios/HaerDalis-Swords","v3.1.0",2024-12-15
-"Faldorn BG2",faldorn-bg2ee,NPC,"https://downloads.weaselmods.net/download/faldorn-bg2ee","1.3",2023-05-31
-"The Return of Xzar And Montaron",the-return-of-xzar-and-montaron,NPC,"https://downloads.weaselmods.net/download/the-return-of-xzar-and-montaron","1.2",2024-12-05
-"Kivan and Deheriana",Kivan_and_Deheriana,NPC,"https://github.com/Gibberlings3/Kivan_and_Deheriana","v19",2025-01-15
-"Yeslick BG2",Yeslick-NPC,NPC,"https://github.com/Spellhold-Studios/Yeslick-NPC","v5.0",2024-12-15
+﻿Codename,Category,URL,Game,UseMaster,Release,Version
+imoenRomance,NPC-EXPANSION,"http://imoen.blindmonkey.org/downloads.php",BG2,,2026-03-07,"4.1.3"
+dynaheir-bg2ee,NPC,"https://downloads.weaselmods.net/download/dynaheir-bg2ee",BG2,,2026-01-25,"1.1"
+faldorn-bg2ee,NPC,"https://downloads.weaselmods.net/download/faldorn-bg2ee",BG2,,2023-05-31,"1.3"
+khalid-bg2,NPC,"https://downloads.weaselmods.net/download/khalid-bg2",BG2,,2025-10-13,"1.07"
+of-heirlooms-and-classes,ITEMS,"https://downloads.weaselmods.net/download/of-heirlooms-and-classes",BG2,,2024-09-06,"2.2"
+oozes-lounge,QUEST,"https://downloads.weaselmods.net/download/oozes-lounge",BG2,,2026-01-08,"3.0"
+quayle-bg2,NPC,"https://downloads.weaselmods.net/download/quayle-bg2",BG2,,2026-01-01,"7.5.1"
+shades-of-the-sword-coast,QUEST,"https://downloads.weaselmods.net/download/shades-of-the-sword-coast",BG1,,2026-01-31,"10.4"
+skie-the-cost-of-one-girls-soul,QUEST/NPC,"https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul",BG2,,2026-03-01,"7.01"
+tangled-oak-isle,QUEST,"https://downloads.weaselmods.net/download/tangled-oak-isle",BG2,,2026-01-10,"4.7"
+the-return-of-xzar-and-montaron,NPC,"https://downloads.weaselmods.net/download/the-return-of-xzar-and-montaron",BG2,,2025-12-13,"1.5"
+verrsza-bg2ee,NPC,"https://downloads.weaselmods.net/download/verrsza-bg2ee",BG2,,2025-12-27,"2.3.1"
+viconia-revamped,NPC-EXPANSION,"https://downloads.weaselmods.net/download/viconia-revamped",BG1-BG2,,2025-04-07,"7.3"
+yoshimo-romance,NPC-EXPANSION,"https://downloads.weaselmods.net/download/yoshimo-romance",BG2,,2026-01-23,"8.0"
+Black-Hearts,QUEST,"https://github.com/A-Wizard-Did-It/Black-Hearts",BG1,,2025-05-27,"v2.03"
+NWNForBG,QUEST,"https://github.com/abalabokhin/NWNForBG",BG2,,2025-12-31,"1.00"
+Call-of-the-Lost-Goddess,QUEST,"https://github.com/AciferBG/Call-of-the-Lost-Goddess",BG2,,2026-01-05,"v2.7"
+Dark-Tidings,QUEST,"https://github.com/AciferBG/Dark-Tidings",BG2,,2026-03-14,"v3.0"
+Dark-Tidings,QUEST,"https://github.com/AciferBG/Dark-Tidings",BG2,,2026-03-14,"v3.0"
+Loretakers,QUEST,"https://github.com/AciferBG/Loretakers",BG1,,2026-02-25,"v2.6"
+Throne-of-the-Mad-God,QUEST,"https://github.com/AciferBG/Throne-of-the-Mad-God",BG2,,2026-01-04,"v1.8"
+bg1_icons_pack_mod,GFX,"https://github.com/Alexander12-creator/bg1_icons_pack_mod",BG1,,2024-12-02,"1.0"
+MadeInHeaven_EncountersAndQuests,,"https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests",BG1,,2021-09-30,"v5"
+A7-ChaosSorcerer,KITS,"https://github.com/Argent77/A7-ChaosSorcerer",BG1-BG2-IWD,,2025-10-16,"v2.11"
+A7-DlcMerger,BASE,"https://github.com/Argent77/A7-DlcMerger",BG1,,2026-03-01,"v1.8"
+A7-HiddenGameplayOptions,TWEAKS,"https://github.com/Argent77/A7-HiddenGameplayOptions",BG1-BG2-IWD-PST,,2025-10-26,"v5.0"
+A7-ImprovedArcher,KITS,"https://github.com/Argent77/A7-ImprovedArcher",BG2,,2024-12-07,"v4.4"
+A7-ImprovedShamanicDance,TWEAKS,"https://github.com/Argent77/A7-ImprovedShamanicDance",BG1-BG2-IWD,,2024-12-07,"v4.6"
+A7-NoEENPCs,NPC-RELATED,"https://github.com/Argent77/A7-NoEENPCs",BG1-BG2,,2025-10-23,"v5.3"
+A7-SkipChateauIrenicus,QUEST,"https://github.com/Argent77/A7-SkipChateauIrenicus",BG2,,2024-12-07,"v3.5"
+HQ-SoundClips-BG2EE,SOUND,"https://github.com/Argent77/HQ-SoundClips-BG2EE",BG2,,2023-09-16,"v1.3"
+HTaM,QUEST,"https://github.com/Austin-BG/HTaM",BG2,,2026-02-23,"v.4.6.4"
+SearchGuild,QUEST,"https://github.com/Austin-BG/SearchGuild",BG2,,2025-07-20,"v.1.5.1"
+Bubbs-Spell-Menu-Extended,GFX,"https://github.com/Bubb13/Bubbs-Spell-Menu-Extended",BG1-BG2-IWD,,2024-10-26,"v5.1"
+EEex,BASE,"https://github.com/Bubb13/EEex",BG1-BG2-IWD,,2026-03-10,"68117ac"
+IE-Snippets,BASE,"https://github.com/Bubb13/IE-Snippets",BG1-BG2-IWD,,2023-03-04,"files"
+Lunia-For-Good-Parties,QUEST,"https://github.com/bucketfulofsunshine/Lunia-For-Good-Parties",BG2,,2026-03-22,"V1.3.2"
+the-pursuit-of-justice,QUEST,"https://github.com/bucketfulofsunshine/the-pursuit-of-justice",BG2,,2026-03-17,"V0.9.9.1"
+VoicesVoicesExtravaganza,SOUND,"https://github.com/ColossusChang/VoicesVoicesExtravaganza",BG1-BG2,,2024-10-13,"v1.1"
+VoicesVoicesExtravaganza-SOD,SOUND,"https://github.com/ColossusChang/VoicesVoicesExtravaganza-SOD",BG1-BG2,,2025-05-12,"v1.0"
+thalan,ITEMS,"https://github.com/CrevsDaak/thalan",BG1,,2024-06-16,"v4.5.1"
+Better-IWD-Pregen,TWEAKS,"https://github.com/D2-mods/Better-IWD-Pregen",BG1-BG2-IWD,,2025-10-26,"v8.0"
+Haer-Dalis-Romance,NPC-EXPANSION,"https://github.com/Endarire/Haer-Dalis-Romance",BG2,,2023-08-01,"2.2"
+More-Style-for-Mages-MSFM-,ITEMS,"https://github.com/Endarire/More-Style-for-Mages-MSFM-",BG1-BG2-IWD,,2023-07-12,"1.6-Prerelease-Take-2"
+bg2-autumns-twilight-mod,QUEST/NPC,"https://github.com/evancauteren/bg2-autumns-twilight-mod",BG2,,2026-01-22,"v1.4.0"
+aTweaks,TWEAKS,"https://github.com/FredrikLindgren/aTweaks",BG1-BG2-IWD,,2018-05-19,"07d7bad"
+randomiser,TWEAKS,"https://github.com/FredrikLindgren/randomiser",BG1-BG2,,2018-09-23,"v7"
+Ajantis_BG1_Expansion,NPC-EXPANSION,"https://github.com/Gibberlings3/Ajantis_BG1_Expansion",BG1,,2026-01-07,"v22"
+Angelo,NPC,"https://github.com/Gibberlings3/Angelo",BG2,,2021-09-28,"v9"
+Another_Fine_Hell,QUEST,"https://github.com/Gibberlings3/Another_Fine_Hell",BG1,,2023-09-19,"vAlpha_230919"
+BG_Quests_And_Encounters,QUEST,"https://github.com/Gibberlings3/BG_Quests_And_Encounters",BG1,,2026-01-17,"v31"
+BG1_Romantic_Encounters,QUEST,"https://github.com/Gibberlings3/BG1_Romantic_Encounters",BG1,,2025-07-13,"v15"
+BG1NPC,NPC-EXPANSION,"https://github.com/Gibberlings3/BG1NPC",BG1,,2023-08-02,"v32"
+BS_Baldurans_Seatower,QUEST,"https://github.com/Gibberlings3/BS_Baldurans_Seatower",BG1,,2023-12-08,"vEAOB.9"
+Corthala_Romantique,NPC-EXPANSION,"https://github.com/Gibberlings3/Corthala_Romantique",BG2,,2022-04-02,"v5"
+CowledMenace,QUEST,"https://github.com/Gibberlings3/CowledMenace",BG2,,2024-09-12,"1.0.3"
+Crossmod_Banter_Pack_for_Baldurs_Gate_II,NPC-RELATED,"https://github.com/Gibberlings3/Crossmod_Banter_Pack_for_Baldurs_Gate_II",BG2,,2025-08-19,"v30"
+EET,BASE,"https://github.com/Gibberlings3/EET",BG1-BG2,,2025-04-07,"v14.1"
+EndlessBG1,QUEST,"https://github.com/Gibberlings3/EndlessBG1",BG1,,2026-01-27,"v20.2"
+Infinity_Collection_Portrait_Pack,GFX,"https://github.com/Gibberlings3/Infinity_Collection_Portrait_Pack",BG1-BG2-IWD,,2022-03-07,"v2"
+iwdification,TWEAKS/ITEMS,"https://github.com/Gibberlings3/iwdification",BG1-BG2,,2025-07-12,"v11"
+Jasteys_SoD_Tweakpack,QUEST,"https://github.com/Gibberlings3/Jasteys_SoD_Tweakpack",BG1,,2025-02-01,"v13"
+Keldorn_Romance,NPC-EXPANSION,"https://github.com/Gibberlings3/Keldorn_Romance",BG2,,2023-01-21,"v8.1"
+Lore_From_Learning,TWEAKS,"https://github.com/Gibberlings3/Lore_From_Learning",BG1-BG2,,2026-03-16,"v10"
+Restored-Rhynn-Lanthorn,QUEST,"https://github.com/Gibberlings3/Restored-Rhynn-Lanthorn",BG2,,2021-09-16,"v-beta-2"
+Road_To_Discovery_for_SoD,QUEST,"https://github.com/Gibberlings3/Road_To_Discovery_for_SoD",BG1,,2026-01-19,"v6"
+SoD-to-BG2EE-Item-Upgrade,ITEMS,"https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade",BG2,,2023-05-06,"v2.0.6"
+SwordCoastStratagems,TWEAKS,"https://github.com/Gibberlings3/SwordCoastStratagems",BG1-BG2-IWD,,2024-11-21,"v35.21"
+The_Boareskyr_Bridge_Scene,QUEST,"https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene",BG1,,2025-02-02,"v8"
+Tweaks-Anthology,TWEAKS,"https://github.com/Gibberlings3/Tweaks-Anthology",BG1-BG2-IWD-PST,,2025-08-22,"v18"
+Yoshimos_Remorse,NPC-EXPANSION,"https://github.com/Gibberlings3/Yoshimos_Remorse",BG2,,2026-03-17,"v3.3"
+Adalons_Blood,QUEST,"https://github.com/Gitjas/Adalons_Blood",BG2,,2025-02-05,"v17.2"
+Ascalons_Questpack,QUEST,"https://github.com/Gitjas/Ascalons_Questpack",BG1,,2025-12-17,"v6.4"
+hiddenadventure,QUEST,"https://github.com/Gitjas/hiddenadventure",BG2,,2025-01-29,"vBeta_9"
+JA-AdventurePack,QUEST,"https://github.com/Gitjas/JA-AdventurePack",BG1,,2025-07-13,"v1.0"
+Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6,SOUND,"https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6",BG1-BG2-IWD,,2023-08-27,"version-0.3.1"
+Baldurs-Gate-Voice-Pack-for-EE-2.6,SOUND,"https://github.com/GraionDilach/Baldurs-Gate-Voice-Pack-for-EE-2.6",BG1-BG2-IWD,,2023-05-21,"version-1.1.0"
+ExtraExpandedEnhancedEncounters,QUEST,"https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters",BG1,,2024-03-13,"4.3"
+Icewind-Dale-II-Voice-Pack-For-EE-2.6,SOUND,"https://github.com/GraionDilach/Icewind-Dale-II-Voice-Pack-For-EE-2.6",BG1-BG2-IWD,,2023-08-27,"version-1.2.0"
+Icewind-Dale-Voice-Pack-For-EE-2.6,SOUND,"https://github.com/GraionDilach/Icewind-Dale-Voice-Pack-For-EE-2.6",BG1-BG2-IWD,,2023-08-27,"version-1.2.0"
+Neverwinter-Nights-Voice-Pack-for-EE-2.6,SOUND,"https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6",BG1-BG2-IWD,,2024-12-20,"version-0.5.0"
+RandomGraionTweaks,TWEAKS,"https://github.com/GraionDilach/RandomGraionTweaks",BG1-BG2-IWD,,2024-12-20,"version-1.17"
+bg_enemy_randomizer,TWEAKS,"https://github.com/GuardianAnubite/bg_enemy_randomizer",BG1-BG2,,2024-08-26,"v1.1.3"
+Ascension,QUEST,"https://github.com/InfinityMods/Ascension",BG2,,2025-05-18,"2.1.0"
+EET_Tweaks,TWEAKS,"https://github.com/K4thos/EET_Tweaks",BG1-BG2,,2019-08-01,"v1.12"
+AutoLoot,BASE,"https://github.com/LCA-EET/AutoLoot",BG1-BG2-IWD,,2025-12-31,"v1.2.6"
+themed_tweaks,QUEST,"https://github.com/lzenner/themed_tweaks",BG1-BG2,,2026-01-19,"v0.5"
+rogue_rebalancing,KITS,"https://github.com/mleduque/rogue_rebalancing",BG1-BG2-IWD,,2021-06-18,"29f0383"
+Epic-Thieving,KITS,"https://github.com/OlvynChuru/Epic-Thieving",BG1-BG2-IWD,,2023-06-04,"149ac53"
+Olvyn-Tweaks,TWEAKS,"https://github.com/OlvynChuru/Olvyn-Tweaks",BG1-BG2-IWD,,2022-08-19,"ebe1f59"
+Shar-Teel-SoD,NPC,"https://github.com/panshaigan/Shar-Teel-SoD",BG1,,2026-03-18,"v1.4"
+Assassinations,QUEST,"https://github.com/Pocket-Plane-Group/Assassinations",BG2,,2023-08-30,"v19"
+Banter_Pack,NPC-RELATED,"https://github.com/Pocket-Plane-Group/Banter_Pack",BG2,,2021-09-17,"v18"
+bg1ub,QUEST,"https://github.com/Pocket-Plane-Group/bg1ub",BG1,,2025-08-25,"v17.1"
+Item_Upgrade,ITEMS,"https://github.com/Pocket-Plane-Group/Item_Upgrade",BG2,,2025-02-17,"v55"
+Under-Respresented_Items,ITEMS,"https://github.com/Pocket-Plane-Group/Under-Respresented_Items",BG2,,2025-06-10,"v14"
+UnfinishedBusiness,QUEST,"https://github.com/Pocket-Plane-Group/UnfinishedBusiness",BG2,,2021-01-03,"v28"
+Xan_BG1_Friendship,NPC-EXPANSION,"https://github.com/Pocket-Plane-Group/Xan_BG1_Friendship",BG1,,2020-08-03,"v11"
+Xan_for_BGII,NPC,"https://github.com/Pocket-Plane-Group/Xan_for_BGII",BG2,,2020-08-04,"v19"
+InfinityUI,GFX,"https://github.com/Renegade0/InfinityUI",BG1-BG2-IWD,,2026-03-08,"v1.21"
+RemasteredSpellIcons,GFX,"https://github.com/Renegade0/RemasteredSpellIcons",BG1-BG2-IWD,,2024-02-21,"v1.2"
+Nalia_At_Last,NPC-EXPANSION,"https://github.com/Skitia/Nalia_At_Last",BG2,,2025-03-09,"v1.14"
+Wings,NPC-EXPANSION,"https://github.com/Skitia/Wings",BG2,,2024-10-07,"v1.07"
+Portraits-Portraits-Everywhere,GFX,"https://github.com/smeagolheart/Portraits-Portraits-Everywhere",BG1-BG2-IWD,,2018-04-16,"54c94e7"
+AC-Miscellaneous-Tweaks,TWEAKS/GFX,"https://github.com/Spellhold-Studios/AC-Miscellaneous-Tweaks",BG1-BG2,,2024-02-02,"v1.25"
+Adrian-NPC,NPC,"https://github.com/Spellhold-Studios/Adrian-NPC",BG2,,2023-06-15,"v6.1"
+Almateria-Restoration-Project,QUEST,"https://github.com/Spellhold-Studios/Almateria-Restoration-Project",BG2,,2024-12-03,"v10.1"
+Arnel-Nalia-Romance-Revision,NPC-EXPANSION,"https://github.com/Spellhold-Studios/Arnel-Nalia-Romance-Revision",BG2,,2024-12-15,"v2.0.0"
+Baldurs-Gate-Graphical-Overhaul,GFX,"https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul",BG1-BG2,,2026-03-21,"v3.6"
+BGSpawn,TWEAKS,"https://github.com/Spellhold-Studios/BGSpawn",BG1,,2025-05-19,"1.3.4"
+HaerDalis-Swords,ITEMS,"https://github.com/Spellhold-Studios/HaerDalis-Swords",BG2,,2024-12-15,"v3.1.0"
+IEP-Extended-Banters,NPC-RELATED,"https://github.com/Spellhold-Studios/IEP-Extended-Banters",BG2,,2024-12-15,"v5.9"
+Imoen-Friendship,NPC-EXPANSION,"https://github.com/Spellhold-Studios/Imoen-Friendship",BG2,,2024-12-15,"v3.6"
+Infinity-Sounds,SOUND,"https://github.com/Spellhold-Studios/Infinity-Sounds",BG1-BG2-IWD,,2025-07-09,"v2.2"
+Jaheira-Friendship,NPC-EXPANSION,"https://github.com/Spellhold-Studios/Jaheira-Friendship",BG2,,2024-12-10,"v1.3"
+Minsc-Friendship,NPC-EXPANSION,"https://github.com/Spellhold-Studios/Minsc-Friendship",BG2,,2024-12-15,"v1.3"
+NTotSC,QUEST,"https://github.com/Spellhold-Studios/NTotSC",BG1,,2022-06-21,"v5.0.0"
+Stuff-of-the-Magi,ITEMS,"https://github.com/Spellhold-Studios/Stuff-of-the-Magi",BG2,,2024-12-15,"v6.0.0"
+Yeslick-NPC,NPC,"https://github.com/Spellhold-Studios/Yeslick-NPC",BG2,,2024-12-15,"v5.0"
+Expanded-Thief-Stronghold,QUEST,"https://github.com/Spellhold-Studios/Expanded-Thief-Stronghold",BG2,,2024-12-15,"v3.0.0"
+SubtleD_Spell_Tweaks,TWEAKS,"https://github.com/subtledoctor/SubtleD_Spell_Tweaks",BG1-BG2-IWD,,2025-10-03,"2.9.1"
+ZS_CanIStabYou-Mod,TWEAKS,"https://github.com/szaumoor/ZS_CanIStabYou-Mod",BG1-BG2-IWD,,2026-03-20,"1.0.8"
+ZS_CanIStabYou-Mod,TWEAKS,"https://github.com/szaumoor/ZS_CanIStabYou-Mod",BG1-BG2-IWD,,2026-03-20,"1.0.8"
+ZS_ShadowdancerOverhaul,KITS,"https://github.com/szaumoor/ZS_ShadowdancerOverhaul",BG1-BG2-IWD,,2026-01-24,"1.2.4"
+ZSTweaks,TWEAKS,"https://github.com/szaumoor/ZSTweaks",BG1-BG2-IWD,,2026-03-20,"1.6.7"
+ChattyImoen,NPC-EXPANSION,"https://github.com/The-Gate-Project/ChattyImoen",BG1,,2023-11-21,"v1.5"
+IWD_EET_End,QUEST,"https://github.com/The-Gate-Project/IWD_EET_End",BG1-BG2,,2025-08-15,"ae5728f"
+IWD1_EET,QUEST,"https://github.com/The-Gate-Project/IWD1_EET",BG1,,2026-01-28,"88362e6"
+IWD2_EET,QUEST,"https://github.com/The-Gate-Project/IWD2_EET",BG2,,2026-02-16,"a3ad0c8"
+JaheiraRecast,SOUND,"https://github.com/The-Gate-Project/JaheiraRecast",BG1-BG2,,2024-07-09,"3.2"
+Artisans-Shaman-Tweaks,TWEAKS,"https://github.com/TheArtisanBG/Artisans-Shaman-Tweaks",BG1-BG2-IWD,1,2024-07-17,"a442c97"
+Bardic-Wonders,KITS,"https://github.com/TheArtisanBG/Bardic-Wonders",BG1-BG2-IWD,1,2026-03-17,"fba8d52"
+House-Rule-Tweaks,TWEAKS,"https://github.com/TheArtisanBG/House-Rule-Tweaks",BG1-BG2-IWD,1,2026-03-22,"ebb87bf"
+SoAExtended,QUEST,"https://github.com/TheArtisanBG/SoAExtended",BG2,1,2025-12-13,"ebccde2"
+The-Artisan-s-Kitpack,KITS,"https://github.com/TheArtisanBG/The-Artisan-s-Kitpack",BG1-BG2-IWD,1,2026-03-20,"75a4860"
+Subrace-mod,TWEAKS,"https://github.com/tipun81/Subrace-mod",BG1-BG2-IWD,,2022-04-14,"v0.3.1"
+gorgon,QUEST,"https://github.com/TotalMilk90/gorgon",BG1,,2024-09-28,"v4.8"
+LivingClara,NPC-EXPANSION,"https://github.com/trow/LivingClara",BG2,,2026-03-18,"v1.1.1"
+TomeAndBlood,KITS,"https://github.com/UnearthedArcana/TomeAndBlood",BG1-BG2-IWD,,2025-03-19,"1.4"
+crucible,QUEST,"https://www.morpheus-mart.com/crucible",BG2,,2026-03-15,"5.0"
+fight-the-heavens,QUEST,"https://www.morpheus-mart.com/fight-the-heavens",BG2,,2025-10-11,"v1.2"
+forgotten-armament,ITEMS,"https://www.morpheus-mart.com/forgotten-armament",BG1-BG2-IWD,,2026-03-15,"6.0"
+morpheus562s-kitpack,KITS,"https://www.morpheus-mart.com/morpheus562s-kitpack",BG1-BG2-IWD,,2026-03-15,"5.9"
+skills-and-abilities,TWEAKS,"https://www.morpheus-mart.com/skills-and-abilities",BG1-BG2-IWD,,2026-03-19,"5.1"
+,GFX,"https://www.sentrizeal.com/pst_1.htm",BG1-BG2-IWD,,,""
+tale-of-our-lady-dreamless,QUEST,"https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless",IWD,,2026-02-21,"2.7"
+below-below-inn,QUEST,"https://downloads.weaselmods.net/download/below-below-inn",IWD,,2026-02-21,"3.0"
+terror-of-the-skineater,QUEST,"https://downloads.weaselmods.net/download/terror-of-the-skineater",IWD,,2026-02-21,"2.5"
+night-of-the-blinking-dead,QUEST,"https://downloads.weaselmods.net/download/night-of-the-blinking-dead",IWD,,2026-02-21,"3.1"
+the-rediscovery-of-kuldahar,QUEST,"https://downloads.weaselmods.net/download/the-rediscovery-of-kuldahar",IWD,,2025-07-16,"2.5"
+snowytoes-hamlet,QUEST,"https://downloads.weaselmods.net/download/snowytoes-hamlet",IWD,,2026-02-21,"1.6"
+xikaszs-grove-of-chaos,QUEST,"https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos",IWD,,2025-12-13,"2.0"
+arszyk,QUEST,"https://downloads.weaselmods.net/download/arszyk",IWD,,2025-10-25,"BETA1.4"
+the-war-of-bloom-and-rot,QUEST,"https://downloads.weaselmods.net/download/the-war-of-bloom-and-rot",IWD,,2025-12-14,"1.3"
+Geomantic_Sorcerer,QUEST,"https://github.com/Gibberlings3/Geomantic_Sorcerer",IWD,,2025-05-07,"v9"
+arszyk,QUEST/NPC,"https://downloads.weaselmods.net/download/arszyk",IWD,,2025-10-25,"BETA1.4"
+bethany,NPC,"https://downloads.weaselmods.net/download/bethany",IWD,,2025-11-15,"1.03"
+dendjelion,NPC,"https://downloads.weaselmods.net/download/dendjelion",IWD,,2025-12-11,"2.1"
+hommet,NPC,"https://downloads.weaselmods.net/download/hommet",IWD,,2026-02-01,"1.2"
+lanna,NPC,"https://downloads.weaselmods.net/download/lanna",IWD,,2024-04-30,"1.8"
+oak-maw,NPC,"https://downloads.weaselmods.net/download/oak-maw",IWD,,2024-09-06,"3.3"
+orra,NPC,"https://downloads.weaselmods.net/download/orra",IWD,,2025-12-13,"2.7"
+tipps,NPC,"https://downloads.weaselmods.net/download/tipps",IWD,,2025-12-09,"2.4"
+tviy,NPC,"https://downloads.weaselmods.net/download/tviy",IWD,,2024-09-06,"2.4"
+urchin,NPC,"https://downloads.weaselmods.net/download/urchin",IWD,,2024-01-27,"2.5"
+vito,NPC,"https://downloads.weaselmods.net/download/vito",IWD,,2026-01-14,"1.1"
+xikaszs-grove-of-chaos,NPC,"https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos",IWD,,2025-12-13,"2.0"
+IWD_NPC,NPC,"https://github.com/Pocket-Plane-Group/IWD_NPC",IWD,,2022-09-23,"v9"
+MinervaNPC,NPC,"https://github.com/TheArtisanBG/MinervaNPC",IWD,1,2026-02-10,"21e0a31"
+KarihiNPC,NPC,"https://github.com/TheArtisanBG/KarihiNPC",IWD,1,2026-02-06,"7478ae3"
+IWDEE-Frostforged,ITEMS,"https://github.com/TheArtisanBG/IWDEE-Frostforged",IWD,1,2025-09-25,"1652f9d"
+IWD-Nirik-NPC,NPC,"https://github.com/TheArtisanBG/IWD-Nirik-NPC",IWD,1,2025-04-11,"2a1e9a9"
+IWD-Guldruk-NPC,NPC,"https://github.com/TheArtisanBG/IWD-Guldruk-NPC",IWD,1,2025-04-11,"1522ddb"
+IWD-Athanasios-NPC,NPC,"https://github.com/TheArtisanBG/IWD-Athanasios-NPC",IWD,1,2025-04-11,"035784e"
+HoWMod,TWEAKS,"https://github.com/TheArtisanBG/HoWMod",IWD,1,2024-12-25,"7c87f9c"
+CassiaNPC,NPC,"https://github.com/Arvendor/CassiaNPC",IWD,,2024-01-20,"8f9af4c"
+iwdcrossmod,NPC RELATED,"https://github.com/Gibberlings3/iwdcrossmod",IWD,,2024-12-26,"v5"
+findit-iwd,ITEMS,"https://downloads.weaselmods.net/download/findit-iwd",IWD,,2023-03-03,"2.6"
+forgeit-iwd,ITEMS,"https://downloads.weaselmods.net/download/forgeit-iwd",IWD,,2024-09-06,"1.9"
+itemupgrade_iwd,ITEMS,"https://github.com/Gibberlings3/itemupgrade_iwd",IWD,,2025-01-30,"v7"
+iwd_unfinished_business,QUEST,"https://github.com/Gibberlings3/iwd_unfinished_business",IWD,,2025-02-12,"v13"
+Icewind-Dale-Graphical-Overhaul,GFX,"https://github.com/Spellhold-Studios/Icewind-Dale-Graphical-Overhaul",IWD,,2026-03-22,"v1,1"
+SP_Collection,KITS/NPC,"https://github.com/Gibberlings3/SP_Collection",BG1-BG2-IWD,,2026-03-17,"v16"
+PST-UB-reloaded,QUEST,"https://github.com/Argent77/PST-UB-reloaded",PST,,2024-12-07,"v2.4"
+A7-BagsOfTorment,ITEMS,"https://github.com/Argent77/A7-BagsOfTorment",PST,,2023-12-09,"v1.3"
+A7-LevelUpTweaks,TWEAKS,"https://github.com/Argent77/A7-LevelUpTweaks",PST,,2023-09-08,"v2.7"
+A7-ResizeableCombatLog,GFX,"https://github.com/Argent77/A7-ResizeableCombatLog",PST,,2023-09-08,"v1.4"
+MortuaryBeGone,QUEST,"https://github.com/aquadrizzt/MortuaryBeGone",PST,,2023-06-21,"v0.11"
+PlanarItems,ITEMS,"https://github.com/aquadrizzt/PlanarItems",PST,,2023-04-16,"v0.61"

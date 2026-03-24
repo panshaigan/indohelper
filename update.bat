@@ -7,6 +7,6 @@ if "%~1"=="" (
 )
 
 :: Call the PowerShell script with the parameter
-powershell -NoProfile -ExecutionPolicy Bypass -File scripts\update.ps1 -modFileName "%~1"
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts\update.ps1 -modFileName "%~1" -preferredGames "%~2"
 
 pause
