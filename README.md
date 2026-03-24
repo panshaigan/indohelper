@@ -4,9 +4,8 @@ Indohelper is a tool designed to help you download and update mods for Infinity 
 
 ## Installation
 
-1.  **Project Infinity**: Extract or clone this repository directly into your **ProjectInfinity** directory.
-2.  **Git**: Ensure you have [Git](https://git-scm.com/) installed on your system.
-3.  **PowerShell**: This tool uses PowerShell scripts. On the first launch, it will attempt to install the `7Zip4PowerShell` module to handle extractions.
+1.  **Project Infinity**: Extract or clone this repository as a subfolder in your **ProjectInfinity** directory.
+2.  **PowerShell**: This tool uses PowerShell scripts. On the first launch, it will attempt to install the `7Zip4PowerShell` module to handle extractions.
 
 ## Usage
 
